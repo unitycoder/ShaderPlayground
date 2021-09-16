@@ -1,2 +1,2 @@
 # ShaderPlayground
-random shaders and effect tests
+random shaders and effect tests for Unity
